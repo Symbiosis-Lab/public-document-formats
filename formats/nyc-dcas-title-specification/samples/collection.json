@@ -1,0 +1,190 @@
+{
+ "license": "CC0-1.0",
+ "credit": "Text read with PDF OCR for moss, from github.com/Symbiosis-Lab/public-document-formats",
+ "documents": [
+  {
+   "id": "f5fd08b0",
+   "title": "Administrative Housing Superintendent",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/10019.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/10019.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/10019.pdf",
+    "sha256": "e285c1097c815193ab579be5f40af1d69392ecd44916df6bb50e632323d6fbc7",
+    "bytes": 607750,
+    "pages": 2,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "10019"
+   }
+  },
+  {
+   "id": "db8e5305",
+   "title": "Confidential Assistant to the Comptroller",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/13229.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/13229.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/13229.pdf",
+    "sha256": "7a18d2a9c1abe46951e42284f51194ef0b9962225238f6f488eaf8003367bef2",
+    "bytes": 57141,
+    "pages": 1,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "13229"
+   }
+  },
+  {
+   "id": "4cf2c82e",
+   "title": "Administrative Public Health Sanitarian",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/82989.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/82989.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/82989.pdf",
+    "sha256": "6e4f7c8ba71b81c6b83387faf3bdb71d76a1816a98000933a558708a86c02a13",
+    "bytes": 56412,
+    "pages": 2,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "82989"
+   }
+  },
+  {
+   "id": "8572991f",
+   "title": "Associate Commissioner for Detention Services (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95058.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95058.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95058.pdf",
+    "sha256": "d42e2f5fab12ddc2f908057c3109576f4312fae55607ab41dd7cd889e9b60342",
+    "bytes": 975294,
+    "pages": 3,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95058",
+    "agency_code": "067"
+   }
+  },
+  {
+   "id": "0798674b",
+   "title": "Assistant Commissioner for Secure Detention (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95059.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95059.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95059.pdf",
+    "sha256": "c6ff359339abc722874e6f24a16750a7ecdac68e77cdd0511c5b0b289d435676",
+    "bytes": 859055,
+    "pages": 3,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95059",
+    "agency_code": "067"
+   }
+  },
+  {
+   "id": "9045b100",
+   "title": "Associate Commissioner for Close to Home (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95060.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95060.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95060.pdf",
+    "sha256": "6f0947ccfd9b1760dc9a34f91abd01aeba0de99b3c41d57c4b515f89e0d0a439",
+    "bytes": 931079,
+    "pages": 3,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95060",
+    "agency_code": "067"
+   }
+  },
+  {
+   "id": "1721dda3",
+   "title": "Associate Commissioner of Policy, Planning, and Performance (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95061.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95061.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95061.pdf",
+    "sha256": "277a2b2610c2f624ac5d26bb40bd843de0413f950c3e12deaf249c1673dd4957",
+    "bytes": 684353,
+    "pages": 2,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95061",
+    "agency_code": "067"
+   }
+  },
+  {
+   "id": "68191479",
+   "title": "Associate Commissioner for Community Based Alternatives (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95062.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95062.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95062.pdf",
+    "sha256": "673cb853406379fd518229155a5be50a7ee090f46377e89c314ecfc8692d58d2",
+    "bytes": 801011,
+    "pages": 3,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95062",
+    "agency_code": "067"
+   }
+  },
+  {
+   "id": "e4b1ac6b",
+   "title": "Associate Commissioner for Juvenile Justice Programs (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95063.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95063.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95063.pdf",
+    "sha256": "ca6cecaf59c5152fa1156db2228363b34aff9cbf25a00407b8168a1366304a15",
+    "bytes": 1218180,
+    "pages": 4,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95063",
+    "agency_code": "067"
+   }
+  },
+  {
+   "id": "f232510c",
+   "title": "Associate Commissioner for Facilities Operations (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95064.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95064.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95064.pdf",
+    "sha256": "f2a4a3d356151e0386e234426f819d81443f33173603582bece8e811171534c8",
+    "bytes": 897309,
+    "pages": 3,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95064",
+    "agency_code": "067"
+   }
+  },
+  {
+   "id": "0832385a",
+   "title": "Assistant Commissioner for Operations Support Services (ACS)",
+   "text_url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95065.txt",
+   "source_url": "https://title-viewer.wegov.nyc/pdfs/95065.pdf",
+   "file": {
+    "url": "https://raw.githubusercontent.com/Symbiosis-Lab/public-document-formats/main/formats/nyc-dcas-title-specification/samples/95065.pdf",
+    "sha256": "b7aec890135cf732eb8a521ddfcdc13acd65482bb2b9126da128ef95d889f79d",
+    "bytes": 860170,
+    "pages": 3,
+    "scanned": true
+   },
+   "fields": {
+    "title_code": "95065",
+    "agency_code": "067"
+   }
+  }
+ ]
+}
